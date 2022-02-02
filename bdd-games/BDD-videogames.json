@@ -1,0 +1,57 @@
+[
+	{
+		"Jeux n°" : 50,
+		"Jeux" : "God Of War",
+		"type de jeux" : "Solo",
+		"interdit au moins de" : 18,
+		"publié le" : "2018-04-18 02:00:00",
+		"studio" : "SCE Santa Monica Studio",
+		"platform" : "Nintendo Switch,PlayStation 5",
+		"pochette" : "godofwar.jpeg",
+		"description" : "Dans ce nouvel épisode de God Of War, le héros évoluera dans un monde aux inspirations nordiques, très forestier et montagneux. Dans ce beat-them-all, un enfant accompagnera le héros principal, pouvant apprendre des actions du joueur, et même gagner de l expérience."
+	},
+	{
+		"Jeux n°" : 51,
+		"Jeux" : "Splatoon 2",
+		"type de jeux" : "Multijoueur",
+		"interdit au moins de" : 7,
+		"publié le" : "2017-07-21 02:00:00",
+		"studio" : "Nintendo EOD",
+		"platform" : "Nintendo Switch,PlayStation 5,Xbox Series X/S",
+		"pochette" : "splatoon.jpeg",
+		"description" : "Tout comme dans le premier opus, le joueur incarne un « Inkling » ou un « Octaling » (une fois l histoire du DLC Octo Expansion terminée) qu’il peut transformer en humain (notamment pour tirer) ou en calamar pour se déplacer plus rapidement dans l encre."
+	},
+	{
+		"Jeux n°" : 52,
+		"Jeux" : "Resident evil 2 Remake",
+		"type de jeux" : "Solo",
+		"interdit au moins de" : 18,
+		"publié le" : "2018-01-25 01:00:00",
+		"studio" : "Capcom",
+		"platform" : "Nintendo Switch,PC,PlayStation 5,Xbox Series X/S",
+		"pochette" : "residentevils2remake.jpeg",
+		"description" : "Le jeu est le remake de Resident Evil 2 sorti en 1998. Il s agit d un survival-horror dans lequel le joueur peut incarner Leon S. Kennedy et Claire Redfield. Ces derniers tentent de survivre alors que la ville de Raccoon City est entièrement infestée par le virus-T Les personnages Ada Wong et Sherry Birkin seront aussi jouables, ainsi que Hunk et Tofu dans la version définitive du jeu."
+	},
+	{
+		"Jeux n°" : 53,
+		"Jeux" : "Death Stranding",
+		"type de jeux" : "Solo / Multijoueur",
+		"interdit au moins de" : 18,
+		"publié le" : "2019-11-08 01:00:00",
+		"studio" : "Sony Interactive Entertainment",
+		"platform" : "Nintendo Switch,PC,PlayStation 5,Xbox Series X/S",
+		"pochette" : "deathstranding.jpeg",
+		"description" : "Death Stranding est un jeu d action dans lequel la mort fait partie intégrante du gameplay. La mort est un des thèmes principaux, et les développeurs ont fait en sorte que les joueurs ne la voient pas comme une fin. L histoire s annonce sombre dans cet univers futuriste et fantastique."
+	},
+	{
+		"Jeux n°" : 54,
+		"Jeux" : "Fifa 22",
+		"type de jeux" : "Solo / Multijoueur",
+		"interdit au moins de" : 3,
+		"publié le" : "2021-10-01 02:00:00",
+		"studio" : "Electronics Arts",
+		"platform" : "GameCube,Nintendo Switch,PC,PlayStation 5,Xbox Series X/S,Xbox",
+		"pochette" : "fifa2022.jpeg",
+		"description" : "Pour la première fois dans le mode Carrière, il est possible de créer son propre club avec son logo, son nom, ses couleurs, son stade, personnalisable par le joueur et de le gérer. Le joueur évolue également avec plus de moyens pour personnaliser son expérience dans le mode Carrière. Il apporte une refonte attendue depuis longtemps de l expérience de jeu, avec un contrôle total sur le développement et la progression de carrière de votre pro."
+	}
+]
